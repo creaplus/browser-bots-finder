@@ -9,7 +9,7 @@
 ├── headless 
 │   ├── puppeteer
 │   │   └── main.js
-│   └── seleium
+│   └── selenium
 │       └── main.py
 └── web
     ├── index.html
